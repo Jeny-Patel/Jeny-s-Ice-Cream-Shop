@@ -1,4 +1,4 @@
-# Jeny-s-Ice-Cream-Shop
+# Jeny-s-Ice-Cream-Shop (the program is made using my high school programming knowledge)
 This program creates an ice cream of user's choice.
 It prompts user to enter the kind of ice cream container, flavour, toppings they prefer from the given options.
 It gives 13% discount on the total bill if the user's bill is above or equal to $8.
